@@ -1,0 +1,1 @@
+nessus ansible_ssh_port=5858 ansible_user=nessus ansible_host=10.20.47.26
